@@ -1,0 +1,55 @@
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.exe
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.pdb
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.xml
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.jeu.resources
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Resources.resources
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.vbproj.GenerateResource.Cache
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.exe
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.xml
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.pdb
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.jeu_du_kalaha2.resources
+C:\Users\JB\Desktop\Jeu du kalaha projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.choisir_entre_les_deux_interfaces.resources
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.exe
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.xml
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.pdb
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.exe
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.pdb
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.xml
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.choisir_entre_les_deux_interfaces.resources
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.jeu.resources
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.jeu_du_kalaha2.resources
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Resources.resources
+\\rohan\L\21513053\Bureau\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.vbproj.GenerateResource.Cache
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.exe
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.pdb
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.xml
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.vbprojResolveAssemblyReference.cache
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Resources.resources
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.vbproj.GenerateResource.Cache
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.exe
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.xml
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.pdb
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.choisir_entre_les_trois_interfaces.resources
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.choisir_le_niveau_de_ordinateur.resources
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Jeu_du_kalaha_Form_button.resources
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Jeu_du_kalaha_Form_label.resources
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Jeu_du_kalaha_Contre_ordinateur_facile.resources
+C:\Users\zhanghuakai\Desktop\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Jeu_du_kalaha_Contre_ordinateur_dificile.resources
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.exe
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.xml
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.pdb
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.exe
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.pdb
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\bin\Debug\Jeu du Kalaha.xml
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.vbprojResolveAssemblyReference.cache
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.choisir_entre_les_trois_interfaces.resources
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.choisir_le_niveau_de_ordinateur.resources
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Jeu_du_kalaha_Form_button.resources
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Jeu_du_kalaha_Form_label.resources
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Jeu_du_kalaha_Contre_ordinateur_facile.resources
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Jeu_du_kalaha_Contre_ordinateur_dificile.resources
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu_du_Kalaha.Resources.resources
+C:\Users\JB\Desktop\Jeu du Kalaha\Projet\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.vbproj.GenerateResource.Cache
+V:\Projet Silo_Candelle_Zhang\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.exe
+V:\Projet Silo_Candelle_Zhang\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.xml
+V:\Projet Silo_Candelle_Zhang\Jeu du Kalaha\Jeu du Kalaha\obj\x86\Debug\Jeu du Kalaha.pdb
